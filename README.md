@@ -4,10 +4,7 @@ Welcome to the **Learning Selenium ATB14x** project! This repository contains co
 
 ## 👤 Author
 
-**Pramod Dutta**
-*   **Website**: [thetestingacademy.com](https://thetestingacademy.com)
-*   **YouTube**: [The Testing Academy](https://www.youtube.com/c/thetestingacademy)
-
+**Prashant**
 ## 🛠️ Tech Stack
 
 This project is built using the following technologies:
